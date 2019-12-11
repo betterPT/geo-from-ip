@@ -1,6 +1,6 @@
 {
   "name": "@betterpt/geo-from-ip",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Get geolocation 🌐 information about an IP address 📲",
   "main": "lib/geo-from-ip.js",
   "scripts": {
