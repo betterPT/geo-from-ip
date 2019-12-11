@@ -44,6 +44,7 @@
   },
   "homepage": "https://github.com/betterPT/geo-from-ip",
   "dependencies": {
+    "@betterpt/blogger": "^0.3.4",
     "async": "^3.0.1",
     "cross-env": "^6.0.0",
     "debug": "^4.1.1",
