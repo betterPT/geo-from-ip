@@ -1,6 +1,6 @@
 {
-  "name": "geo-from-ip",
-  "version": "1.2.3",
+  "name": "@betterpt/geo-from-ip",
+  "version": "1.2.4",
   "description": "Get geolocation 🌐 information about an IP address 📲",
   "main": "lib/geo-from-ip.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VikramTiwari/geo-from-ip.git"
+    "url": "https://github.com/betterPT/geo-from-ip.git"
   },
   "keywords": [
     "geo",
@@ -27,10 +27,10 @@
     "maxmind",
     "auto update"
   ],
-  "author": "Vikram Tiwari <vikramtheone1@gmail.com> (vikramtiwari.com)",
+  "author": "Vikram Tiwari <vikramtheone1@gmail.com> (vikramtiwari.com) - fork by BetterPT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VikramTiwari/geo-from-ip/issues"
+    "url": "https://github.com/betterPT/geo-from-ip/issues"
   },
   "engines": {
     "node": ">=10"
@@ -42,7 +42,7 @@
       "test"
     ]
   },
-  "homepage": "https://github.com/VikramTiwari/geo-from-ip",
+  "homepage": "https://github.com/betterPT/geo-from-ip",
   "dependencies": {
     "async": "^3.0.1",
     "cross-env": "^6.0.0",
